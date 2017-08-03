@@ -1,3 +1,4 @@
+
 @extends('layouts.app')
 
 @section('content')
@@ -5,12 +6,8 @@
 <div class="row">
 <div class="col-md-8 col-md-offset-2">
 <div class="panel panel-default">
-<div class="panel-heading">Hallo</div>
+<div class="panel-headig"><center><h1>Login</h1></center></div>
 <div class="panel-body">
-Selamat Datang DiLarapus
+You Are logged in!
+Anda berhasil login!
 </div>
-</div>
-</div>
-</div>
-</div>
-@endsection
